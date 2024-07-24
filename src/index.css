@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  /* Custom Arrow Styling */
+  .arrow-container {
+    display: flex;
+    align-items: center;
+  }
+
+  .prev-arrow,
+  .next-arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border: none;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    z-index: 10;
+  }
+
+  .prev-arrow i,
+  .next-arrow i {
+    font-size: 20px;
+    color: #050404;
+  }
+
+  .prev-arrow:hover,
+  .next-arrow:hover {
+    background-color: #f1f1f1;
+  }
+
+  .slick-arrow {
+    z-index: 10;
+  }
+
+ 
+}

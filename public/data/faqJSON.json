@@ -1,0 +1,24 @@
+{
+    "faq": [
+        {
+            "heading": "How do I book tickets online?",
+            "subHeading": "Booking tickets online is as easy as snapping your fingers! Simply browse our events, select your desired tickets, and voilà, you're all set for an unforgettable experience."
+        },
+        {
+            "heading": "What happens after I book my tickets?",
+            "subHeading": "Once you've successfully booked your tickets, a magical confirmation email will whisk its way to your inbox, ensuring you're all geared up for the event of a lifetime."
+        },
+        {
+            "heading": "Can I get a refund if I can't make it?",
+            "subHeading": "Life happens, we get it! If you find yourself unable to attend, just reach out to us within the refund period, and we'll work our magic to get you sorted."
+        },
+        {
+            "heading": "Are there any event policies I should know?",
+            "subHeading": "Our events are all about fun and good vibes! Be sure to check out our event policies section to stay in the loop with all the dos and don'ts for a seamless experience."
+        },
+        {
+            "heading": "Need help with ticketing? Contact us!",
+            "subHeading": "Got a burning question or need assistance with your ticket purchase? Our friendly support team is just a message away. Drop us a line, and we'll be thrilled to help you out!"
+        }
+    ]
+}
